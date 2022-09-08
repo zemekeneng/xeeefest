@@ -1,0 +1,32 @@
+This Template is comprised of three parts:
+
+(1) 3rd party script licensed under MIT, GPL, WTFPL, BSD and CC Attribution-ShareAlike 3.0.  
+ 
+	Here is a list of all copyright holders and licenses:
+
+	jQuery 	- Copyright (c) jQuery Foundation and other contributors. Released under the MIT license.
+	Animate CSS - Copyright (c) Daniel Eden. Licensed under the MIT license.
+	BxSlider - Copyright (c) Steven Wanderski. Licensed under the MIT license.
+	Easy pie chart - Copyright (c) Robert Fleischmann. Dual licensed under the MIT and GPL licenses.
+	Easy tabs - Copyright (c) JangoSteve. Released under the MIT license. 
+	gMap - Copyright (c) Mario Estrada. Licensed under Creative Commons BY-SA 3.0.
+	Isotope - Copyright (c) David DeSandro. Released under the GPL v3 License. Also bought developer license.
+	ImagesLoaded - Copyright (c) Tomas Sardyha and David DeSandro. Released under the MIT license.
+	YtPlayer - Copyright (c) Pupunzi. Dual licensed under the MIT and GPL licenses.
+	jQuery Form - Copyright (c) M. Alsup. Dual licensed under the MIT and GPL licenses.
+	jQuery Validation - Copyright (c) Jörn Zaefferer. Licensed under the MIT license.
+	Magnific Pop-up - Copyright (c) Dmitry Semenov. Released under the MIT license.
+	jQuery Parallax - Copyright (c) Ian Lunn. Dual licensed under the MIT and GPL licenses.
+	Slick - Copyright (c) Ken Wheeler. Licensed under the MIT license.
+	jQuery Superfish Menu Plugin - Copyright (c) Joel Birch. Dual licensed under the MIT and GPL licenses.
+	HoverIntent - Copyright (c) Brian Cherne. Released under the MIT license.
+	Viewport - Copyright (c) Mika Tuupola. Released under the MIT license.
+	Waypoints - Copyright (c) Caleb Troughton. Licensed under the MIT license.
+
+(2) Custom icon set - Copyright (c) http://icons8.com/
+
+	Licensed under a "Paid No link + vector source" License.  
+
+(3) All other parts of the template including, but not limited to the CSS code, HTML code, other JS code, images, and design are licensed according to the Roven Themes license. 
+
+	Read about licensing details here: https://roventhemes.com/licenses/
