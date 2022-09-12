@@ -348,7 +348,7 @@ pre {
 }
 
 .text-uppercase {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .mute {
@@ -1191,10 +1191,11 @@ select.span12 {
     float: left;
 }
 
-.sf-menu>li>a {
+
+/* .sf-menu>li>a {
     position: relative;
     display: block;
-}
+} */
 
 
 /**
@@ -1236,13 +1237,13 @@ select.span12 {
 }
 
 .sf-menu a {
-    display: inline-block;
+    /* display: inline-block; */
     padding: 14px 0;
     border-bottom: 1px solid #c88b5e;
-    font: 14px 'PT Sans Narrow', Arial, sans-serif;
+    font: 28px 'PT Sans Narrow', Arial, sans-serif;
     color: #fff;
     text-decoration: none;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     letter-spacing: 3px;
 }
 
@@ -1259,7 +1260,7 @@ select.span12 {
     padding: 50px 0;
     border: none;
     color: #fff;
-    font: 16px "Oswald", Arial, sans-serif;
+    font: 28px "Oswald", Arial, sans-serif;
 }
 
 .sf-menu>li>a span,
@@ -1273,16 +1274,17 @@ select.span12 {
     margin-right: 5px;
 }
 
-.sf-menu>li.active>a span {
+
+/* .sf-menu>li.active>a span {
     border-color: #c88b5e;
     color: #fff;
-}
+} */
 
 .sf-menu>li.active>a,
 .sf-menu li.sfHover>a,
 .sf-menu a:hover,
 .sf-menu li.sfHover a:hover {
-    color: #c88b5e;
+    /* color: #c88b5e; */
     text-decoration: none;
 }
 
@@ -2340,17 +2342,23 @@ a.toggle-item {
 /* =Default Button
    ========================================================================== */
 
+input#ctl00_btnAddOrder.checkout-btn.alert.btnAddOrder {
+    border: 2px solid #c88b5e !important;
+}
+
 .btn {
+    border-radius: 2px;
     display: inline-block;
     padding: 8px 12px;
-    border: 2px solid #4b4b4b;
+    /* border: 2px solid #c88b5e; */
     margin: 0 5px 20px 0;
     color: #4b4b4b;
+    background-color: #3dc360;
     font-size: 14px;
     line-height: 14px;
     letter-spacing: 1px;
     text-decoration: none !important;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     vertical-align: middle;
     cursor: pointer;
     -webkit-transition: all 0.2s;
@@ -2366,23 +2374,24 @@ a.btn {
 }
 
 .btn-large {
-    padding: 12px 20px;
+    padding: 12px 80px;
     font-size: 18px;
     line-height: 18px;
 }
 
 .btn i,
 .btn-large i {
-    float: left;
     margin: 2px 8px 0 -4px;
     font-size: 14px;
     line-height: 14px;
 }
 
+
+/* 
 .btn:hover {
     border-color: #c88b5e;
     color: #c88b5e;
-}
+} */
 
 
 /* =Colored Buttons
@@ -4913,7 +4922,7 @@ a img.aligncenter {
 .widget_nav_menu {}
 
 .widget_nav_menu ul {
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
     list-style: none;
 }
 
@@ -4927,17 +4936,18 @@ a img.aligncenter {
     color: #4b4b4b;
     font-family: "Oswald", Arial, sans-serif;
     letter-spacing: 1px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
-.widget_nav_menu li:last-child a {
+
+/* .widget_nav_menu li:last-child a {
     padding-bottom: 0;
     border-bottom: none;
     margin-bottom: 0;
-}
+} */
 
 .widget_nav_menu li a:hover {
-    color: #c88b5e;
+    /* color: #c88b5e; */
     text-decoration: none;
 }
 
@@ -5124,7 +5134,7 @@ a img.aligncenter {
 .ewf_widget_navigation {}
 
 .ewf_widget_navigation ul {
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
     list-style: none;
 }
 
@@ -5141,14 +5151,15 @@ a img.aligncenter {
     text-transform: uppercase;
 }
 
-.ewf_widget_navigation li:last-child a {
+
+/* .ewf_widget_navigation li:last-child a {
     padding-bottom: 0;
     border-bottom: none;
     margin-bottom: 0;
-}
+} */
 
 .ewf_widget_navigation li a:hover {
-    color: #c88b5e;
+    /* color: #c88b5e; */
     text-decoration: none;
 }
 
@@ -5221,7 +5232,7 @@ a img.aligncenter {
 }
 
 .comments-title {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .comment-reply-title {}
@@ -5238,7 +5249,7 @@ a img.aligncenter {
     line-height: 14px;
     letter-spacing: 1px;
     text-decoration: none !important;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     vertical-align: middle;
     cursor: pointer;
     -webkit-transition: all 0.2s;
@@ -5287,7 +5298,7 @@ a img.aligncenter {
 .commentlist .vcard cite.fn a.url {
     color: #4b4b4b;
     font: 16px "Oswald", Arial, sans-serif;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .commentlist .comment-meta {
@@ -5371,7 +5382,7 @@ a img.aligncenter {
    ========================================================================== */
 
 .section-heading {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .nav-previous {
